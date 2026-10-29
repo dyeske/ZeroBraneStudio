@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 ZBS_PATH=${0%/*/*}
 if [ ! -d $ZBS_PATH ]; then ZBS_PATH=${PWD%/*}; fi

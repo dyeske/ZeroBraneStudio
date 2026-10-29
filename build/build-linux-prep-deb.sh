@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # this script installs prerequisites to build binary files on Linux with deb
 

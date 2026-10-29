@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # exit if the command line is empty
 if [ $# -eq 0 ]; then
